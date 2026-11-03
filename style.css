@@ -253,6 +253,10 @@ sup a {
   margin: 0;
 }
 
+.site-footer .funding {
+  margin-bottom: 0.5rem;
+}
+
 .kana {
   display: inline-block;
   color: var(--color-text-muted);
